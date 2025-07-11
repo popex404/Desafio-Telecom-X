@@ -11,17 +11,12 @@ El proyecto está organizado en los siguientes componentes:
 - `Desafio_Telecom_X.ipynb`: El notebook principal del análisis, desarrollado en Google Colab.
 - `README.md`: Este archivo, con la documentación principal del proyecto.
 
------------- Por Completar-------------
-
 ### Análisis a desarrollar
 
 El análisis estará enfocado en los siguientes aspectos, alineados con los requerimientos del desafío:
 
-- Facturación total de cada tienda: Identificar cuál tienda registra mayores ventas.
-- Categorías más populares por tienda: Determinar los productos más vendidos en cada tienda.
-- Promedio de evaluación de los clientes: Analizar la satisfacción de los clientes en cada tienda.
-- Productos más y menos vendidos en cada tienda.
-- Costo promedio de envío por tienda: Evaluar la eficiencia del proceso logístico.
+- Análisis exploratorio de los datos: Númerico y categórico.
+- Análisis de evasion.
 
 > Los insights y visualizaciones estan disponibles en el noteboook.
 
@@ -29,7 +24,7 @@ El análisis estará enfocado en los siguientes aspectos, alineados con los requ
 
 El análisis principal se desarrolla en un notebook de Google Colab, disponible en el siguiente enlace:
 
-[Notebook de Colab: Desafío Data Science 1](https://colab.research.google.com/drive/16QwK1FJzkxDigGND-g5YshNwjP54noQl)
+[Notebook de Colab: Desafío Telecom X](https://colab.research.google.com/drive/1UQ_IKGTIoRR7OUVdCLIPtlyyT2H5dQI4?usp=sharing)
 
 Para ejecutarlo:
 
@@ -40,4 +35,3 @@ Para ejecutarlo:
 
 Sin embargo es posible no ejecutarlo y leer la sección de Informe para los insights y conclusiones.
 
------------- Por Completar-------------
