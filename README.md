@@ -33,5 +33,4 @@ Para ejecutarlo:
 3. No es necesario descargar manualmente los datos, ya que el notebook realiza la extracción de datos automáticamente.
 4. Ejecuta las celdas para reproducir el análisis y generar los resultados.
 
-Sin embargo es posible no ejecutarlo y leer la sección de Informe para los insights y conclusiones.
 
